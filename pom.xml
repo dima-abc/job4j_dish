@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>ru.job4j</groupId>
 	<artifactId>dish</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1</version>
 	<name>dish</name>
 	<description>Job4j Hungry Wolf</description>
 	<properties>
